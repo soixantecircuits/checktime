@@ -1,4 +1,3 @@
-## deanhtml5
+## Check time
 
-TODO Describe project in
-[Markdown](http://warpedvisions.org/projects/markdown-cheat-sheet.md)
+Simple webapp that shows the time and change colors of screen
