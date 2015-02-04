@@ -18,7 +18,8 @@ var require={
     "coffee-script": "bower_components/coffee-script/index", /*data-alt-path="//cdnjs.cloudflare.com/ajax/libs/coffee-script/1.6.3/coffee-script.min.js"*/
     "domReady": "bower_components/requirejs-domready/domReady", /*data-alt-path="//cdnjs.cloudflare.com/ajax/libs/require-domReady/2.0.1/domReady.js"*/
     "hbs": "bower_components/require-handlebars-plugin/hbs", /*data-alt-path="//cdnjs.cloudflare.com/ajax/libs/requirejs-handlebars/0.0.2/hbars.min.js"*/
-    "text": "bower_components/requirejs-text/text" /*data-alt-path="//www.chicagogrooves.com/js/requirejs-text.js"*/
+    "text": "bower_components/requirejs-text/text", /*data-alt-path="//www.chicagogrooves.com/js/requirejs-text.js"*/
+    "moment": "bower_components/momentjs/min/moment.min"
   },
   shim: {
     "bootstrap": ["jquery"],

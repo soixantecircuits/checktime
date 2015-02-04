@@ -1,4 +1,17 @@
 /* Your style overrides here */
 body{
   padding-top: 50px;
+  text-align: center;
+}
+
+h2 {
+  margin: auto !important;
+  font-size: 90px;
+  width: 100%;
+  padding:0px;
+  height: 30px; 
+  text-align: center;
+  top: 0px;
+  bottom: 0px;
+  position: absolute;
 }
